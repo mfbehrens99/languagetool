@@ -29843,3 +29843,12 @@ Messungsparameter/N
 Matlab #name
 Maple #name
 GeoGebra #name
+Sallen-Key/S #name
+Dimensionierungsprozess/E
+Potentiometereinstellung
+Potentiometereinstellungen
+Phasenverschiebungsdifferenz
+Primärfrequenz
+Lüfterstufe\N
+Lüfterschaltung
+Lüftermodul
